@@ -1,0 +1,11 @@
+.carousel-item img{
+    height: 70vh;
+    object-fit: cover;
+}
+.navbar-brand{
+    margin-right: 36%;
+}
+.nav-item{
+    margin: 0 20px;
+}
+
